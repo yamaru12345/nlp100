@@ -1,5 +1,5 @@
 ## 言語処理100本ノック 2020 (https://nlp100.github.io/ja/)
-All notebooks were running in Google Colaboratory.
+All of the notebooks were running in Google Colaboratory.
 
 For details, please refer to the following links.  
 [【言語処理100本ノック 2020】第1章: 準備運動](https://qiita.com/yamaru/items/6d66445dbd5e7cef8640)  
