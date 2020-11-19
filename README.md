@@ -10,4 +10,4 @@ For details, please refer to the following links.
 [【言語処理100本ノック 2020】第6章: 機械学習](https://qiita.com/yamaru/items/374e6e2c045387f4d3b4)  
 [【言語処理100本ノック 2020】第7章: 単語ベクトル](https://qiita.com/yamaru/items/822af1f7f77666381e20)  
 [【言語処理100本ノック 2020】第8章: ニューラルネット](https://qiita.com/yamaru/items/b54989d772c4323bde69)  
-[【言語処理100本ノック 2020】第9章: RNN, CNN](https://qiita.com/yamaru/items/c5f87d55d00066f8ad7c)
+[【言語処理100本ノック 2020】第9章: RNN, CNN](https://qiita.com/yamaru/items/6dbd1a44f5910d8848f6)
